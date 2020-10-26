@@ -1,0 +1,2 @@
+CNN (Baseline) ==> Private(0.96560), Public(0.96240)
+MLP (Baseline) ==> Private(0.94320), Public(0.96840)
